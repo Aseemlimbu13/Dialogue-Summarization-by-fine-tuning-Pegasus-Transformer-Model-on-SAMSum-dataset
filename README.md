@@ -1,0 +1,2 @@
+# Dialogue-Summarization-by-fine-tuning-Pegasus-Transformer-Model-on-SAMSum-dataset
+This repo contains the source code, model and tokenizer of Pegasus Transformer Model. I have used the Google Pegasus Model previously trained on cnn-dailymail dataset fine tuned on SAMSum dataset to perform the summarization of human-to-human conversation. I used the hugging-face for both importing pre-trained model and dataset for fine-tuning.
